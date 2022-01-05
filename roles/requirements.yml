@@ -1,4 +1,3 @@
-- src: https://github.com/sadofrazer/docker_role.git
-- src: sadofrazer.docker_role
-- src: sadofrazer.wordpress_role
-- src: https://github.com/sadofrazer/wordpress_role.git
+- src: https://github.com/hanniDEV/wordpress_role.git
+- src: hannidev.wordpress_role
+
