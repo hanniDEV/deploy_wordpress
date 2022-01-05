@@ -3,8 +3,7 @@
   become: true
   vars:
     edit_hostname: "no"
-    hostname: "AnsibleWorker01"
+    hostname: "Worker01"
   roles:
-    - docker_role
     - wordpress_role
 
